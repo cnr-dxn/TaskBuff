@@ -25,7 +25,3 @@ Then simply direct your browser to http://localhost:3000/ and begin using the ap
 /code holds all the code for the web app, front and backend.
 
 /databaseBackend holds some scripts to put dummy data into a database.
-
-/milestone_submissions holds all of our docoments for our project milesones.
-
-/team_meeting_logs holds records of our meetings as a group for this project.
